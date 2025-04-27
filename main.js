@@ -8,3 +8,5 @@ console.log("This is the title h1 [" , title, "] from DOM");
 console.log("This is the subtitle h2 [" , subtitle, "] from DOM");
 
 console.log(b);
+
+console.log(a,b);
