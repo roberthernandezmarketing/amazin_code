@@ -1,6 +1,6 @@
-Readme for Amazin Code
+# Readme for Amazin Code
 
-I've test PULL
+### I've test **PULL**
 
 ```mermaid
 graph TD
@@ -28,3 +28,10 @@ graph TD
     T -- No Aprobado --> Q;
     V --> W[Fin];
     E --> D;
+
+    ```mermaid
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
