@@ -1,4 +1,4 @@
-# Readme for Amazin Code
+# Readme for Amazing Code
 
 ### I've test **PULL**
 
@@ -9,6 +9,7 @@ graph LR
     BB --> DD{D-Rhombus}
     CC --> DD
 ```
+<br><br><br>
 
 ```mermaid
 graph TD
@@ -36,4 +37,4 @@ graph TD
     T -- No Aprobado --> Q;
     V --> W[Fin];
     E --> D;
-
+```
