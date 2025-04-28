@@ -2,6 +2,8 @@
 
 ### I've test **PULL**
 
+![Diagrama de flujo de Git](https://miro.medium.com/v2/resize:fit:1050/1*PtbECo8DeSwfFcWTCmxkqg.jpeg)
+
 ```mermaid
 graph LR
     AA[A-SQUARE] -- Link text --> BB((B-Circle))
